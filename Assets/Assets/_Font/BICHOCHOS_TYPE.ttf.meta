@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0bb4c50530bdde5498b46443e431b07b
+timeCreated: 1537356771
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BICHOCHOS TYPE
+  fontNames:
+  - BICHOCHOS TYPE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
